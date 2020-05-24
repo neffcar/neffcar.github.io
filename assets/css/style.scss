@@ -1,0 +1,111 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+// Redefine base theme styling
+
+.wrapper {
+    width:80%;
+    max-width:1080px;
+}
+
+header {
+    width:30%;
+    float:left;
+    position:static;
+    -webkit-font-smoothing:subpixel-antialiased;
+}
+
+section {
+    width:70%;
+    float:right;
+    padding-bottom:50px;
+}
+
+footer {
+    width:30%;
+    float:left;
+    position:static;
+    bottom:50px;
+    -webkit-font-smoothing:subpixel-antialiased;
+}
+  
+a:hover, a:focus {
+    font-weight:normal;
+    text-decoration:underline;
+}
+
+// New styling
+
+img.profile {
+    max-width:80%;
+}
+
+img.side {
+    margin-top:-0.5em;
+    height:auto;
+    max-height:80px;
+    width:auto;
+    max-width:90px;
+}
+
+img.icon {
+    margin-top:0em;
+    height:16px;
+    width:auto;
+}
+
+img.enlarge {
+    max-height:75px;
+    max-width:auto;
+    padding: 5px;
+    transition:transform 0.25s ease;
+}
+
+img.enlarge:hover {
+    -webkit-transform:scale(2.5);
+    transform:scale(2.5);
+}
+
+hr.close {
+    height:5px;
+    margin-top: -0.5em;
+}
+
+.br_small {
+    display:block;
+    margin-bottom:1em; 
+}
+
+.br_med {
+    display:block;
+    margin-bottom:3em; 
+}
+
+.br_large {
+    display:block;
+    margin-bottom:20em; 
+}
+
+.button {
+    background-color:#ececec;
+    border:none;
+    border-radius:25px;
+    color:black;
+    padding:15px;
+    text-align:center;
+    font-size:16px;
+    margin:0px 0px;
+    transition-duration:0.4s;
+    max-width:100%;
+}
+
+.button:hover, .button:focus {
+  background-color:#d8d8d8;
+}
+
+// TODO:
+// .tiny {
+//   margin-top: -0.75em;
+// }
