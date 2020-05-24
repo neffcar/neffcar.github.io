@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="{{ site.lang | default: "en-US" }}">
+  <head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+{% seo %}
+    <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
+    <!--[if lt IE 9]>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
+    <![endif]-->
+  </head>
+  <body>
+    <div class="wrapper">
+      <header>
+        <h1><a href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h1>
+
+        {% if site.profile_pic %}
+          <img class="profile" src="{{site.profile_pic | relative_url}}" alt="Profile picture" />
+        {% endif %}
+
+        <span class="br_small"></span>
+        <p>Hi, I'm Carolyn!</p>
+        <p>Digital + Content Marketing | Global Nomad | Fullbright Scholar | Celiac Advocate | Snow Enthusiast</p> 
+        <p>Lived  in Australia, Belgium, Germany, Switzerland and the U.K.  
+          Enjoy travel, languages, swimming, skiing, photography, and community service. </p> 
+        <p>Ask me why I wear a green bracelet!</p> 
+      </header>
+      
+      <section>
+      {{ content }}
+      </section>
+
+      <footer>
+        <button class="button">
+          <img class="icon" align="left" src="/assets/img/logos/text_icon.png">&nbsp
+          <a href="/assets/docs/Neff_CV_2020.pdf">CV</a> 
+        </button>
+        <span class="br_small"></span> 
+
+        <button class="button">
+          <img class="icon" align="left" src="/assets/img/logos/text_icon.png">&nbsp
+          <a href="/assets/docs/Neff_Lebenslauf_2020.pdf">Lebenslauf</a>
+        </button>
+        <span class="br_small"></span>
+        
+        
+        <button class="button">
+          <img class="icon" align="left" src="/assets/img/logos/linkedin_icon.png">&nbsp
+          <a href="https://www.linkedin.com/in/carolynneff/">LinkedIn</a>
+        </button>
+        <span class="br_small"></span>
+        
+        <button class="button">
+          <img class="icon" align="left" src="/assets/img/logos/insta.png">&nbsp
+          <a href="https://www.instagram.com/eatingwithelise_/?hl=en">@eatingwithelise_</a>
+        </button>
+        <span class="br_small"></span> 
+
+      </footer>
+    </div>
+    <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
+  </body>
+</html>
