@@ -8,9 +8,14 @@
 
 - **Celiac Community Foundation of Northern California**  
   2020 - present  
-  [Cult Crackers](https:\celiaccommunity.org\2020\cult-crackers\) |
-  [Little Gem](https:\celiaccommunity.org\2020\little-gem\) | 
-  [Pica Pica](https:\celiaccommunity.org\2020\pica-pica\)
+  <div style="max-width:80%;">
+  <a href="https://celiaccommunity.org/2020/cult-crackers/">Cult Crackers</a> |
+  <a href="https://celiaccommunity.org/2020/little-gem/">Little Gem</a> |
+  <a href="https://celiaccommunity.org/2020/pica-pica/">Pica Pica</a> | 
+  <a href="http://celiaccommunity.org/2020/young-kobras/">Young Kobras</a> | 
+  <a href="http://celiaccommunity.org/2020/bite-of-the-month-laiki-crackers/">Laiki Crackers</a> | 
+  <a href="http://celiaccommunity.org/2020/july-bite-of-the-month-flour-craft/">Flour Craft</a>
+  </div>
 
 ___
 
@@ -26,6 +31,9 @@ ___
   </div>
   <div style="max-width:80%;">
     <a href="https://www.electrical-energy-storage.events/en/news-press/news/articles?tx_news_pi1%5Bnews%5D=3831&cHash=34342a8eee38a14926bc0fce115ff50e">Digging for The Truth: The Future of Green Mining in Africa</a>
+  </div>
+  <div style="max-width:80%;">
+    <a href="https://www.utilitydive.com/spons/covid-19-is-allowing-a-sneak-peak-for-how-high-penetration-renewable-flexi/583062/">A sneak peak for renewable, flexible electricity markets in the real world</a>
   </div>
   <div style="max-width:80%;">
   <a href="https://www.wartsila.com/media/news/27-02-2020-wartsila-receives-first-in-the-industry-iec-62443-cybersecurity-certification-for-its-gems-hybrid-energy-storage-technology-2651650">Press Release 1</a> |
@@ -61,7 +69,7 @@ ___
   2019 - present | San Francisco, CA, USA  
   
   <div style="max-width:80%;">
-  <p><i>Global renewables organization focused on sustainable energy development</i></p>
+  <p><i>Joined as Greensmith Energy before transitioning into corporate parent, global renewables organization focused on sustainable energy development</i></p>
   <p>Global energy storage and optimization brand storyteller, product marketing, thought leadership content, press releases, media pitching, localized marketing, brand transition leadership, tradeshows, and webinars</p>
   </div>
 
