@@ -14,7 +14,10 @@
   <a href="https://celiaccommunity.org/2020/pica-pica/">Pica Pica</a> | 
   <a href="http://celiaccommunity.org/2020/young-kobras/">Young Kobras</a> | 
   <a href="http://celiaccommunity.org/2020/bite-of-the-month-laiki-crackers/">Laiki Crackers</a> | 
-  <a href="http://celiaccommunity.org/2020/july-bite-of-the-month-flour-craft/">Flour Craft</a>
+  <a href="http://celiaccommunity.org/2020/july-bite-of-the-month-flour-craft/">Flour Craft</a> |
+  <a href="http://celiaccommunity.org/2020/nourished-festival/">Nourished Festival</a> |
+  <a href="http://celiaccommunity.org/2020/alloko-garden/">Alloko Garden</a> |
+  <a href="http://celiaccommunity.org/2020/raised-gluten-free/">Raised Gluten Free</a>
   </div>
 
 ___
