@@ -46,11 +46,19 @@ ___
   <a href="https://www.wartsila.com/media/news/14-10-2020-first-wartsila-gridsolv-quantum-energy-storage-system-with-service-agreement-will-help-lower-u-s-city-s-electricity-costs-2798216">Press Release 4</a> 
   </div>
 
-  <span class="br_med"></span>  
+  <span class="br_med"></span>
 
-  <iframe style="max-width:100%;" width="560" height="315" src="https://www.youtube.com/embed/2nU6zlmJb-8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  <div>
+    <iframe style="max-width:100%;" width="300" height="169" src="https://www.youtube.com/embed/2nU6zlmJb-8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-  <iframe style="max-width:100%;" width="560" height="315" src="https://www.youtube.com/embed/biXRyZfHXRQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    <iframe style="max-width:100%;" width="300" height="169" src="https://www.youtube.com/embed/sjuL2nD5F8o" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  </div>
+
+  <div>
+    <iframe style="max-width:100%;" width="300" height="169" src="https://www.youtube.com/embed/THtGEA2MsmI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+    <iframe style="max-width:100%;" width="300" height="169" src="https://www.youtube.com/embed/biXRyZfHXRQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  </div>
 
 ___
 
