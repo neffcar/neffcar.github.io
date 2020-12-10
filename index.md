@@ -80,8 +80,11 @@ ___
 
 <img class="side" align="right" src="/assets/img/logos/Wärtsilä.png">
 
-- **Global Content Marketing Manager, Wärtsilä**  
-  2019 - present | San Francisco, CA, USA  
+- **Global Marketing Manager, ES&O, Wärtsilä Energy**  
+  2020 - present | San Francisco, CA, USA
+
+- **Global Content Marketing Manager, Wärtsilä/Greensmith Energy**  
+  2019 - 2020 | San Francisco, CA, USA  
   
   <div style="max-width:80%;">
   <p><i>Joined as Greensmith Energy before transitioning into corporate parent, global renewables organization focused on sustainable energy development</i></p>
