@@ -38,6 +38,14 @@ a:hover, a:focus {
 
 // New styling
 
+summary {
+    outline: none;
+}
+
+h1 {
+    display:inline-block;
+}
+
 img.profile {
     max-width:80%;
 }

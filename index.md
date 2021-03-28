@@ -1,8 +1,10 @@
 <!-- <link rel="stylesheet" href="/assets/css/style.scss"> -->
 
-# WRITING + CONTENT SAMPLES 
-
-<hr class="close"> 
+<details markdown="1" open>
+<summary>
+  <h1>WRITING + CONTENT SAMPLES</h1>
+  <hr class="close">
+</summary>
 
 <img class="side" align="right" src="/assets/img/logos/celiac.jpg">
 
@@ -72,11 +74,14 @@ ___
   <a href="https://blog.fluenceenergy.com/avoiding-gridlock-energy-storage-as-transmission">Avoiding Gridlock on the Grid</a> 
   </div>
 
+</details>
 <span class="br_med"></span>
 
-# MARKETING EXPERIENCE
-
-<hr class="close"> 
+<details markdown="1" open>
+<summary>
+  <h1>MARKETING EXPERIENCE</h1>
+  <hr class="close">
+</summary>
 
 <img class="side" align="right" src="/assets/img/logos/Wärtsilä.png">
 
@@ -115,11 +120,14 @@ ___
   <p>International auto shows, media drives, vehicle launches, digital marketing </p>
   </div>
 
+</details>
 <span class="br_med"></span>
 
-# MARKETING INTERNSHIPS
-
-<hr class="close"> 
+<details markdown="1" open>
+<summary>
+  <h1>MARKETING INTERNSHIPS</h1>
+  <hr class="close">
+</summary>
 
 <img class="side" align="right" src="/assets/img/logos/Stimson.png">
 
@@ -152,13 +160,14 @@ ___
   Outreach events, communication management, membership relations 
   </div>
  
-
+</details>
 <span class="br_med"></span>
 
-
-# GLOBAL SCHOLARHSIP
-
-<hr class="close"> 
+<details markdown="1" open>
+<summary>
+  <h1>GLOBAL SCHOLARSHIP</h1>
+  <hr class="close">
+</summary>
 
 <img class="side" align="right" src="/assets/img/logos/Fulbright-logo-new.jpg">
 
@@ -202,11 +211,14 @@ ___
   English-German research, North/South America border conflicts 
   </div>
 
+</details>
 <span class="br_med"></span>
 
-# EDUCATION
-
-<hr class="close"> 
+<details markdown="1" open>
+<summary>
+  <h1>EDUCATION</h1>
+  <hr class="close">
+</summary>
 
 <img class="side" align="right" src="/assets/img/logos/DU.png">
 
@@ -237,6 +249,7 @@ ___
 
 <hr class="close"> 
  -->
+</details>
 
 <!-- Leave Space at bottom  -->
 <span class="br_large"></span>
