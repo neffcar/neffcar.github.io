@@ -14,12 +14,15 @@ header {
     width:30%;
     float:left;
     position:static;
+    padding-right:0px;
     -webkit-font-smoothing:subpixel-antialiased;
 }
 
 section {
     width:70%;
     float:right;
+    border:none;
+    padding-top:0px;
     padding-bottom:50px;
 }
 
