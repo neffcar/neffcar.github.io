@@ -5,48 +5,65 @@
 
 // Redefine base theme styling
 
-.wrapper {
-    width:80%;
-    max-width:1080px;
+// If on large screen use split screen styling
+// else default to minimal theme handling
+
+.link_spacer {
+    display:inline-block;
+    margin-bottom:1em; 
 }
 
-header {
-    width:30%;
-    float:left;
-    position:static;
-    padding-right:0px;
-    -webkit-font-smoothing:subpixel-antialiased;
+@media print, screen and (min-width: 960px) {
+    .wrapper {
+        width:90%;
+        max-width:1080px;
+    }
+
+    header {
+        width:30%;
+        float:left;
+        position:static;
+        -webkit-font-smoothing:subpixel-antialiased;
+    }
+
+    section {
+        width:70%;
+        float:right;
+        border:none;
+        padding-top:0px;
+        padding-bottom:50px;
+    }
+
+    footer {
+        width:30%;
+        float:left;
+        position:static;
+        bottom:50px;
+        -webkit-font-smoothing:subpixel-antialiased;
+    }
+
+    .link_spacer {
+        display:block;
+    }
 }
 
-section {
-    width:70%;
-    float:right;
-    border:none;
-    padding-top:0px;
-    padding-bottom:50px;
-}
-
-footer {
-    width:30%;
-    float:left;
-    position:static;
-    bottom:50px;
-    -webkit-font-smoothing:subpixel-antialiased;
-}
-  
 a:hover, a:focus {
     font-weight:normal;
     text-decoration:underline;
+}
+
+h1 {
+    display:inline-block;
+}
+
+header {
+    padding-right:0px;
 }
 
 // New styling
 
 summary {
     outline: none;
-}
-
-h1 {
-    display:inline-block;
 }
 
 img.profile {
@@ -56,9 +73,9 @@ img.profile {
 img.side {
     margin-top:-0.5em;
     height:auto;
-    max-height:80px;
+    max-height:75px;
     width:auto;
-    max-width:90px;
+    max-width:75px;
 }
 
 img.icon {
@@ -115,8 +132,3 @@ hr.close {
 .button:hover, .button:focus {
   background-color:#d8d8d8;
 }
-
-// TODO:
-// .tiny {
-//   margin-top: -0.75em;
-// }
