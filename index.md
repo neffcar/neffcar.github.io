@@ -6,34 +6,16 @@
   <hr class="close">
 </summary>
 
-<img class="side" align="right" src="/assets/img/logos/celiac.jpg">
-
-- **Celiac Community Foundation of Northern California**  
-  2020 - present  
-  <div style="max-width:80%;">
-  <a href="https://celiaccommunity.org/2020/cult-crackers/">Cult Crackers</a> |
-  <a href="https://celiaccommunity.org/2020/little-gem/">Little Gem</a> |
-  <a href="https://celiaccommunity.org/2020/pica-pica/">Pica Pica</a> | 
-  <a href="http://celiaccommunity.org/2020/young-kobras/">Young Kobras</a> | 
-  <a href="http://celiaccommunity.org/2020/bite-of-the-month-laiki-crackers/">Laiki Crackers</a> | 
-  <a href="http://celiaccommunity.org/2020/july-bite-of-the-month-flour-craft/">Flour Craft</a> |
-  <a href="http://celiaccommunity.org/2020/nourished-festival/">Nourished Festival</a> |
-  <a href="http://celiaccommunity.org/2020/raised-gluten-free/">Raised Gluten Free</a> |
-  <a href="http://celiaccommunity.org/2020/alloko-garden/">Alloko Garden</a>
-  </div>
-
-___
-
 <img class="side" align="right" src="/assets/img/logos/Wärtsilä.png">
 
 - **Wärtsilä**  
   2019 - present
   <div style="max-width:80%;">
-  <a href="/assets/docs/Alectra_Internal_Wärtsilä 2020.pdf">Alectra</a> |
-  <a href="/assets/docs/Fekola Mine_CS_Wärtsilä 2020.pdf">Fekola Mine</a> |
-  <a href="/assets/docs/Graciosa_Internal_Wärtsilä 2020.pdf">Graciosa</a> | 
-  <a href="/assets/docs/Pivot Power_CS_Wärtsilä 2020.pdf">Pivot Power</a> |
-  <a href="https://www.wartsila.com/insights/article/wartsilas-hybrid-solution-paves-the-way-for-sustainable-energy-and-grid-control-in-the-us-virgin-islands">Hybrid Solutions</a>
+    <a href="/assets/docs/Alectra_Internal_Wärtsilä 2020.pdf">Alectra</a> |
+    <a href="/assets/docs/Fekola Mine_CS_Wärtsilä 2020.pdf">Fekola Mine</a> |
+    <a href="/assets/docs/Graciosa_Internal_Wärtsilä 2020.pdf">Graciosa</a> | 
+    <a href="/assets/docs/Pivot Power_CS_Wärtsilä 2020.pdf">Pivot Power</a> |
+    <a href="https://www.wartsila.com/insights/article/wartsilas-hybrid-solution-paves-the-way-for-sustainable-energy-and-grid-control-in-the-us-virgin-islands">Hybrid Solutions</a>
   </div>
   <div style="max-width:80%;">
     <a href="https://www.electrical-energy-storage.events/en/news-press/news/articles?tx_news_pi1%5Bnews%5D=3831&cHash=34342a8eee38a14926bc0fce115ff50e">Digging for The Truth: The Future of Green Mining in Africa</a>
@@ -42,13 +24,21 @@ ___
     <a href="https://www.utilitydive.com/spons/covid-19-is-allowing-a-sneak-peak-for-how-high-penetration-renewable-flexi/583062/">A sneak peak for renewable, flexible electricity markets in the real world</a>
   </div>
   <div style="max-width:80%;">
-  <a href="https://www.wartsila.com/media/news/27-02-2020-wartsila-receives-first-in-the-industry-iec-62443-cybersecurity-certification-for-its-gems-hybrid-energy-storage-technology-2651650">Press Release 1</a> |
-  <a href="https:\www.wartsila.com\media\news\29-01-2020-wartsila-gems-energy-storage-technology-to-enhance-wartsila-engine-plant-and-integrate-renewables-in-honduras-2628071">Press Release 2</a> |
-  <a href="https:\www.wartsila.com\media\news\22-01-2020-wartsila-s-new-100-mw-energy-storage-project-in-south-east-asia-to-boost-regional-grid-stability-2624288">Press Release 3</a> |
-  <a href="https://www.wartsila.com/media/news/14-10-2020-first-wartsila-gridsolv-quantum-energy-storage-system-with-service-agreement-will-help-lower-u-s-city-s-electricity-costs-2798216">Press Release 4</a> 
+    <a href="https://www.wartsila.com/media/news/27-02-2020-wartsila-receives-first-in-the-industry-iec-62443-cybersecurity-certification-for-its-gems-hybrid-energy-storage-technology-2651650">Press Release 1</a> |
+    <a href="https:\www.wartsila.com\media\news\29-01-2020-wartsila-gems-energy-storage-technology-to-enhance-wartsila-engine-plant-and-integrate-renewables-in-honduras-2628071">Press Release 2</a> |
+    <a href="https:\www.wartsila.com\media\news\22-01-2020-wartsila-s-new-100-mw-energy-storage-project-in-south-east-asia-to-boost-regional-grid-stability-2624288">Press Release 3</a> |
+    <a href="https://www.wartsila.com/media/news/14-10-2020-first-wartsila-gridsolv-quantum-energy-storage-system-with-service-agreement-will-help-lower-u-s-city-s-electricity-costs-2798216">Press Release 4</a>
   </div>
 
-  <span class="br_med"></span>
+  <!-- TODO: -->
+  <div style="max-width:80%;">
+    <a href="https://storage.wartsila.com/">Web Development + Maintenance</a> |
+    <a href="https://storage.wartsila.com/project-spotlight/cremzow/">Cremzow</a> |
+    <a href="https://www.utilitydive.com/spons/storage-investment-tax-credit-giving-standalone-storage-a-seat-at-the-tabl/601301/">ITC Utility Dive</a> |
+    <a href="https://www.wartsila.com/energy/vision">Energy Transition Talks </a>
+  </div>
+
+  <span class="br_small"></span>
 
   <div>
     <iframe style="max-width:40%;" width="300" height="169" src="https://www.youtube.com/embed/2nU6zlmJb-8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -60,6 +50,28 @@ ___
     <iframe style="max-width:40%;" width="300" height="169" src="https://www.youtube.com/embed/THtGEA2MsmI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
     <iframe style="max-width:40%;" width="300" height="169" src="https://www.youtube.com/embed/biXRyZfHXRQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  </div>
+
+  <div>
+    <iframe style="max-width:40%;" width="300" height="169" src="https://www.youtube.com/embed/jU2I2ikUp2c" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  </div>
+
+___
+
+<img class="side" align="right" src="/assets/img/logos/celiac.jpg">
+
+- **Celiac Community Foundation of Northern California**  
+  2020 - 2021  
+  <div style="max-width:80%;">
+  <a href="https://celiaccommunity.org/2020/cult-crackers/">Cult Crackers</a> |
+  <a href="https://celiaccommunity.org/2020/little-gem/">Little Gem</a> |
+  <a href="https://celiaccommunity.org/2020/pica-pica/">Pica Pica</a> | 
+  <a href="http://celiaccommunity.org/2020/young-kobras/">Young Kobras</a> | 
+  <a href="http://celiaccommunity.org/2020/bite-of-the-month-laiki-crackers/">Laiki Crackers</a> | 
+  <a href="http://celiaccommunity.org/2020/july-bite-of-the-month-flour-craft/">Flour Craft</a> |
+  <a href="http://celiaccommunity.org/2020/nourished-festival/">Nourished Festival</a> |
+  <a href="http://celiaccommunity.org/2020/raised-gluten-free/">Raised Gluten Free</a> |
+  <a href="http://celiaccommunity.org/2020/alloko-garden/">Alloko Garden</a>
   </div>
 
 ___
