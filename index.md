@@ -1,5 +1,20 @@
 <!-- <link rel="stylesheet" href="/assets/css/style.scss"> -->
 
+<!-- Anchor tags -->
+<a name="Home"></a>
+
+<div>
+  <ul class="navbar">
+    <li class="navbar"><a href="#Writing">Writing + Content Samples</a></li>
+    <li class="navbar"><a href="#Marketing">Marketing Experience</a></li>
+    <li class="navbar"><a href="#Internships">Marketing Internships</a></li>
+    <li class="navbar"><a href="#Scholarship">Global Scholarship</a></li>
+    <li class="navbar"><a href="#Education">Education</a></li>
+  </ul>
+</div>
+
+<a name="Writing"></a>
+
 <details markdown="1" open>
 <summary>
   <h1>WRITING + CONTENT SAMPLES</h1>
@@ -89,6 +104,8 @@ ___
 </details>
 <span class="br_med"></span>
 
+<a name="Marketing"></a>
+
 <details markdown="1" open>
 <summary>
   <h1>MARKETING EXPERIENCE</h1>
@@ -135,6 +152,8 @@ ___
 </details>
 <span class="br_med"></span>
 
+<a name="Internships"></a>
+
 <details markdown="1" open>
 <summary>
   <h1>MARKETING INTERNSHIPS</h1>
@@ -174,6 +193,8 @@ ___
  
 </details>
 <span class="br_med"></span>
+
+<a name="Scholarship"></a>
 
 <details markdown="1" open>
 <summary>
@@ -225,6 +246,8 @@ ___
 
 </details>
 <span class="br_med"></span>
+
+<a name="Education"></a>
 
 <details markdown="1" open>
 <summary>
